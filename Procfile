@@ -1,1 +1,1 @@
-web: gunicorn run manage
+web: gunicorn run manage.py
